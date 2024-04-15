@@ -1,6 +1,0 @@
-f=open('abc.txt','x')
-print("file name:",f.name)
-print("file name:",f.mode)
-print("is file readable?:",f.readable())
-print("is file writable?:",f.writable())
-print("is file closed:",f.closed)
